@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/kUTME7ABmhYg5J3psM/giphy.gif"  />
 </div>
 
 ---
@@ -56,22 +56,10 @@ I'm <b>Gunjan Rathore</b>, a passionate MERN stack developer and tech enthusiast
 
 ---
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+<h3 align="left">🔥 My Problem-Solving Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GunjanRathore0011&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GunjanRathore0011&show_icons=true&theme=radical" height="180" alt="GitHub Stats"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunjanRathore0011&layout=compact&theme=radical" height="180" alt="Top Languages"  />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GunjanRathore0011&theme=radical" height="200" alt="GitHub Profile Summary" />
+  <img src="https://codfolio.io/api/heatmap/GunjanRathore0011" alt="Codfolio Problem Solving Heatmap" />
 </div>
 
 ---
